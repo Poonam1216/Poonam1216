@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Poonam
-- 🌱 I’m currently learning full stack developer
-- 📫 How to reach me poonam.trifed@gmail.com
-SKILLS-
+🌍  I'm based in Delhi
+✉️  You can contact me at poonam.trifed@gmail.com
+
+
+SKILLS:-
+
 Javascript HTML5 React Angular JQuery CSS3 Bootstrap NodeJS Express MongoDB
 
 SOCIALS:-
