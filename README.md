@@ -1,5 +1,4 @@
-![logo](https://github.com/Poonam1216/Poonam1216/blob/main/full%20stack%20developer.mp4)
-
+![logo](https://github.com/Poonam1216/Poonam1216/blob/main/full%20stack%20developer.png)
 <h1 align="center">Hi 👋, I'm Poonam Rani</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
