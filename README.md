@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **poonam.trifed@gmail.com**
 
-- ⚡ Fun fact is** I enjoy capturing the beauty of everyday life through photography. Whether it's a stunning sunset or a candid moment with friends, my camera is always by my side..**
+- ⚡ Fun fact is **I enjoy capturing the beauty of everyday life through photography. Whether it's a stunning sunset or a candid moment with friends, my camera is always by my side..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
