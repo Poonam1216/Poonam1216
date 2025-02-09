@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonam1216&label=Profile%20views&color=0e75b6&style=flat" alt="poonam1216" /> </p>
 
-- 🔭 I’m currently working on **School website**
+- 🔭 I’m currently working on **Us based project**
 
-- 🌱 I’m currently learning **Angular, typescript**
+- 🌱 I’m currently learning **ReactNative, Mysql**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-veo5.onrender.com/](https://portfolio-website-veo5.onrender.com/)
 
 - 💬 Ask me about **React.js, html, css, Express, nodejs**
 
-- 📫 How to reach me **poonam.trifed@gmail.com**
+- 📫 How to reach me **poonamraniofficial064@gmail.com**
 
 - ⚡ Fun fact **I think I can make anyone laugh.**
 
